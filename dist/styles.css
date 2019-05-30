@@ -1,0 +1,12 @@
+.slots-container {
+    border: 1px solid #2980b9;
+    border-radius: 5px;
+    margin-top: 10%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+.appointment-slot {
+    margin-bottom: 15px;
+    min-width: 150px;
+}
